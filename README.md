@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Muhtasim Mannan</h1>
 <h3 align="center">Bioinformatics & Computational Biology Learner</h3>
 
+I'm a biotech graduate. I'm passionate about utilizing computational biology approaches with wet lab works. 
+
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxmcTFkc3h3aGp5ZHM5eWxxbTN3ajN5bHIzdmw2cmM0czhzbWRhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif
 ">
 
