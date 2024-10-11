@@ -1,5 +1,3 @@
-![MasterHead](https://drive.google.com/drive/folders/14kLG1Dd3px7ZgmtlXbIR8t5QmrOFFLbk)
-
 <h1 align="center">Hi 👋, I'm Md. Muhtasim Mannan</h1>
 <h3 align="center">Bioinformatics & Computational Biology Learner</h3>
 
