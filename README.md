@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Muhtasim Mannan</h1>
+<h1 align="center">Hi 👋, I'm Muhtasim </h1>
 <h3 align="center">Bioinformatics & Computational Biology Learner</h3>
 
 I'm a biotech graduate. I'm passionate about utilizing computational biology approaches with wet lab works. 
